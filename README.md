@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a backend system for managing datasets with role-based access control (RBAC) and audit logging.
-It simulates a real-world **data governance platform** used in modern organizations to manage data ownership, access, and activity tracking.
+It simulates data governance platform used to manage data ownership, access, and activity tracking.
 
 ---
 
