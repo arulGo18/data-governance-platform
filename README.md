@@ -79,16 +79,20 @@ Deployed using Docker & Kubernetes
 
 ### API Documentation (Swagger)
 
-![Swagger](screenshots/swagger.png)
+![Swagger](SwaggerAPI.png)
 
 ---
 
 ### Kubernetes Pods
 
-![Pods](screenshots/k8s-pods.png)
+![Pods](kubernetes.png)
 
 ---
 
 ### Audit Logs
 
-![Audit Logs](screenshots/audit-log.png)
+![Audit Logs](AuditLog.png)
+
+### Docker
+
+![Docker](DesktopDocker.png)
